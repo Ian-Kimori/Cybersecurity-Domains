@@ -1,4 +1,4 @@
-# Cybersecurity-domains
+# Cybersecurity-Domains
 
 ---
 
