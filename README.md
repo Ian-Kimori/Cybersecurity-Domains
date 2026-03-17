@@ -1,10 +1,8 @@
 # Cybersecurity-domains
 
-Here’s a quick breakdown of those cybersecurity domains so you understand what each one involves and how they differ:
-
 ---
 
-## 🧮 Cryptography
+## 1. Cryptography
 
 Cryptography is the science of securing information by transforming it into unreadable formats and then back into readable formats using keys.
 
@@ -32,7 +30,7 @@ Cryptography is the science of securing information by transforming it into unre
 
 ---
 
-## 🕵️ OSINT (Open Source Intelligence)
+## 2. OSINT (Open Source Intelligence)
 
 OSINT is collecting information from publicly available sources to gather intelligence.
 
@@ -59,7 +57,7 @@ OSINT is collecting information from publicly available sources to gather intell
 
 ---
 
-## 🗂️ Forensics
+## 3. Forensics
 
 Digital forensics involves investigating digital devices and data to uncover evidence.
 
@@ -86,7 +84,7 @@ Digital forensics involves investigating digital devices and data to uncover evi
 
 ---
 
-## 🦠 Malware Analysis
+## 4. Malware Analysis
 
 Malware analysis is studying malicious software to understand its behavior and impact.
 
@@ -112,7 +110,7 @@ Malware analysis is studying malicious software to understand its behavior and i
 
 ---
 
-## ⚔️ Offensive Security
+## 5. Offensive Security
 
 Offensive security focuses on ethical hacking and identifying security weaknesses before attackers do.
 
